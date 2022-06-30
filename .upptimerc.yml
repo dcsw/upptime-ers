@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: CLC Lodging
-    url: https://clc-lodging.com
+    url: https://clclodging.com
+  - name: CLC Lodging Login
+    url: https://account.clclodging.com/login.cfm
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
