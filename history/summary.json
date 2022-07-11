@@ -22,19 +22,19 @@
     "url": "https://account.clclodging.com",
     "icon": "https://favicons.githubusercontent.com/account.clclodging.com",
     "slug": "clc-lodging-login",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 433,
-    "timeWeek": 370,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 331,
+    "timeDay": 381,
+    "timeWeek": 360,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2022-07-11": 0
+      "2022-07-11": 21
     }
   }
 ]
